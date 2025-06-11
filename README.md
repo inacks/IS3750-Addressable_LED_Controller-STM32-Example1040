@@ -85,7 +85,4 @@ int main(void)
 }
 ```
 
-🛠️ Get the **Kappa3750Ard** board at [inacks.com/kappa3750ard](https://www.inacks.com/kappa3750ard)
-
-🔗 Learn more on the [IS3750 product page](https://www.inacks.com/is3750) at [inacks.com](https://www.inacks.com).
 
