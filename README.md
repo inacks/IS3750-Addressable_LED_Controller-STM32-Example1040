@@ -1,4 +1,4 @@
-# IS3750 STM32 Trafic Light Example
+# IS3750 STM32 Traffic Light Example
 
 This example demonstrates how to use the **IS3750 Addressable LED Controller Chip** with an STM32 microcontroller.  
 The project is based on **STM32CubeIDE** and uses the **HAL drivers** from ST's Cube firmware library.
