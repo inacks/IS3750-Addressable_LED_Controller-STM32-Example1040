@@ -1,4 +1,4 @@
-# Example1040 – IS3750 LED Controller with STM32
+# IS3750 STM32 Trafic Light Example
 
 This example demonstrates how to use the **IS3750 Addressable LED Controller Chip** with an STM32 microcontroller.  
 The project is based on **STM32CubeIDE** and uses the **HAL drivers** from ST's Cube firmware library.
@@ -83,5 +83,9 @@ int main(void)
     HAL_Delay(500);
   }
 }
+```
 
+🛠️ Get the **Kappa3750Ard** board at [inacks.com/kappa3750ard](https://www.inacks.com/kappa3750ard)
+
+🔗 Learn more on the [IS3750 product page](https://www.inacks.com/is3750) at [inacks.com](https://www.inacks.com).
 
